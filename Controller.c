@@ -1,4 +1,4 @@
-//Jose Sanchez CS122A Final Project 
+//Jose Sanchez CS122A Final Project controller code
 
 
 #include <stdio.h>		/* Include std. library file */
